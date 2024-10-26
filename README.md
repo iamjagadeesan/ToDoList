@@ -1,4 +1,4 @@
-# To-Do List Application
+# Todolist Application
 ---
 A simple, interactive To-Do List application built with React, designed to help users organize and keep track of their tasks. This project also includes animations and local storage to enhance the user experience.
 
