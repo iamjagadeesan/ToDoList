@@ -4,7 +4,7 @@ A simple, interactive To-Do List application built with React, designed to help 
 
 ## Demo
 
-You can view the live version of this project [here](https://iamjagadeesan.github.io/todolist/).
+You can view the live version of this project [here](https://iamjagadeesan.github.io/Todolist/).
 
 ## Features
 
